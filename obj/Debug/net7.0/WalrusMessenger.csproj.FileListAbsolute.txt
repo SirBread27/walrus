@@ -1,0 +1,794 @@
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\appsettings.Development.json
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\appsettings.json
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.exe
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.deps.json
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.pdb
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Azure.Core.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Azure.Identity.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets.build.json
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\staticwebassets.development.json
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.dll
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\refint\WalrusMessenger.dll
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.pdb
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+D:\Дыня\ASP\WalrusMessenger\obj\Debug\net7.0\ref\WalrusMessenger.dll
+D:\Дыня\ASP\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\appsettings.Development.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\appsettings.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.exe
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.deps.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\WalrusMessenger.pdb
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Azure.Core.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Azure.Identity.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Memory.Data.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\WalrusMessenger\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.sourcelink.json
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets.build.json
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets.development.json
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+D:\C#\WalrusMessenger\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C#\WalrusMessenger\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.dll
+D:\C#\WalrusMessenger\obj\Debug\net7.0\refint\WalrusMessenger.dll
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.pdb
+D:\C#\WalrusMessenger\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+D:\C#\WalrusMessenger\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\appsettings.json
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\danii\Desktop\walrus-main\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\new\walrus-main\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\appsettings.json
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\2\walrus-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\danii\Desktop\2\walrus-main\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\3\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\danii\Desktop\3\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM4\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\4\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\danii\Desktop\4\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\Sebek\Desktop\Лабы 5 семестр\Курсач веб\WM6\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\appsettings.json
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.staticwebassets.runtime.json
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.exe
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.deps.json
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.runtimeconfig.json
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.AssemblyInfo.cs
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.build.WalrusMessenger.props
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WalrusMessenger.props
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WalrusMessenger.props
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\scopedcss\bundle\WalrusMessenger.styles.css
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.csproj.CopyComplete
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.dll
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\refint\WalrusMessenger.dll
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.pdb
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\WalrusMessenger.genruntimeconfig.cache
+C:\Users\danii\Desktop\master\walrus-main три\obj\Debug\net7.0\ref\WalrusMessenger.dll
+C:\Users\danii\Desktop\master\walrus-main три\bin\Debug\net7.0\libman.json

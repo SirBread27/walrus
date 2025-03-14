@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+    <!--CSS-->
+
+    <link rel="stylesheet" href="ChatsStyleSheet.css">
+
+    <title>Chats</title>
+</head>
+
+<body>
+    <div class="chatZone">
+
+        <div class="imputZone">
+
+            <div class="input-field input-field-chat">
+                <textarea name="message" class="typedMessage" placeholder="Type Your Message..." autofocus></textarea>
+
+                <!--<input type="text" placeholder="Enter your password" required> <i class="uil uil-envelope-upload sendMessage"></i>
+
+                     <form class="message-form">
+                     <input type="text" class="typedMessage" placeholder="Type Your Message..." autofocus>
+                    <button class="submit">Send</button>
+                      </form>
+
+                    -->
+                <i class="uil uil-message submit" id="sendmessageicon"></i>
+
+            </div>
+        </div>
+
+        <!--                     messageZone                     -->
+
+
+        <div class="messageZone" id="messagezone">
+            <div class="messages"></div>
+        </div>
+
+
+        <!--                     chatHead                      -->
+
+        <div class="chatHead">
+
+            <div class="avatar">
+                <div class="avatar-image">
+                    <img src="./img/avatar-2.png" ALIGN=LEFT>
+                </div>
+                <div class="chatmate-textpart">
+                    <h3 id="chatmatename">Имя собеседника</h3>
+                </div>
+            </div>
+
+            <!-- <div class="delete-chat">
+                Delete chat
+                <i class="uil uil-trash-alt"></i>
+            </div>-->
+        </div>
+
+    </div>
+
+
+    <!--                  right-side                     -->
+
+
+    <div class="right-side">
+        <div class="you_info">
+            <div class="avatar-image">
+                <img src="./img/avatar-3.png" ALIGN=LEFT>
+            </div>
+            <div class="right-side-textpart">
+                <h3 id="Yourename">Имя пользователя</h3>
+                <h6 id="youretimeonline">Ваше время последнего захода</h6>
+            </div>
+
+        </div>
+        <div class="exit">
+            <input type="button" onclick="Exit() " value="Выйти">
+        </div>
+    </div>
+
+    <!-- <div class="login input-field button" id="YourenameChange">
+     <input type="button" onclick="ChangeName()" value="Login Now"> </div>
+        style="font-size: 11px;"-->
+    <!--                  left-side                     -->
+
+
+    <div class="left-side">
+        <div class="input-field input-field-search">
+            <input type="text" placeholder="Find user" required id="finduser_input">
+            <i class="uil uil-search" id="findusericon"></i>
+        </div>
+        <div class="return_to_contact_ist">
+            <input type="button" style="font-size: 11px;" onclick=" GenerateMyChatmate() " value="Вернуться к
+списку контактов">
+        </div>
+    </div>
+
+    <!--                  chatslist                     -->
+
+    <div class="chatslist">
+        <div class="users" id="users_id"></div>
+    </div>
+
+    <script src="/js/signalr/dist/browser/signalr.js"></script>
+    <script src="/js/ChatsScript.js"></script>
+
+</body>
+
+</html>

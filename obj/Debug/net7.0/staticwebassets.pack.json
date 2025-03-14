@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\Chats.html",
+      "PackagePath": "staticwebassets\\Chats.html"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\ChatsStyleSheet.css",
+      "PackagePath": "staticwebassets\\ChatsStyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\DEPRECATED.html",
+      "PackagePath": "staticwebassets\\DEPRECATED.html"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\Script1.js",
+      "PackagePath": "staticwebassets\\Script1.js"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\StyleSheet1.css",
+      "PackagePath": "staticwebassets\\StyleSheet1.css"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\indexdum.html",
+      "PackagePath": "staticwebassets\\indexdum.html"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\js\\ChatsScript.js",
+      "PackagePath": "staticwebassets\\js\\ChatsScript.js"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\danii\\Desktop\\master\\walrus-main три\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WalrusMessenger.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WalrusMessenger.props",
+      "PackagePath": "build\\WalrusMessenger.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WalrusMessenger.props",
+      "PackagePath": "buildMultiTargeting\\WalrusMessenger.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WalrusMessenger.props",
+      "PackagePath": "buildTransitive\\WalrusMessenger.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

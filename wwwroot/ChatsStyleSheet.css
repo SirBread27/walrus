@@ -1,0 +1,294 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #98A9F8; 
+}
+
+
+/*                 chatZone                  */
+
+
+.chatZone {
+    position: relative;
+    /*max-width: 430px;*/
+    width: 50%;
+    height: 100%;
+    background: #ffffff;
+    overflow: hidden;
+    margin: 0 20px;
+    border-right: solid #2D3996;
+    border-left: solid #2D3996;
+}
+
+/*                 .messageZone               */
+
+.messageZone {
+    position: absolute;
+    overflow: scroll;
+    height: 74%;
+    width: 100%;
+    margin-top: 10%;
+    /* margin-bottom: 20%;*/
+    /* background:red;*/
+}
+.messages {
+    position: absolute;
+    width: 100%;
+    right: 0;
+}
+
+.message-item {
+    /*position: initial;    left: 47%;*/
+    position: relative;
+    width: 50%;
+    border-radius: 7px;
+    margin: 5px;
+    background-color: #98A9F8;
+}
+
+.message_text {
+    position: relative;
+    left: 5%;
+}
+.message_time {
+    /*margin-bottom: -125px;  margin-right: 75%;top: 2%;*/
+    position: relative;
+    border-radius: 5px;
+    left: 85%;  
+    width: 14%;
+    background-color: lightgray;
+    border: medium red;
+}
+
+
+/*                 imputZone                  */
+.imputZone {
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    background: #4070f4;
+    overflow: hidden;
+    bottom: 0;
+}
+
+.input-field-chat {
+    position: relative;
+    width: 90%;
+    height: 80%;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    /*background: #ccc;
+        overflow: hidden; 
+        border-radius: 10px;
+    */
+}
+
+.input-field-chat textarea{
+   position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow:auto;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    resize: none;
+    /*wrap: off;
+     overflow: scroll;*/
+}
+
+
+.input-field-chat i {
+   position: absolute; 
+   margin: 5px;
+   margin-right: 15px;
+   right:0;
+    transition: all 0.2S ease;
+   /*  */
+}
+
+/*                 chatHead                */
+
+.chatHead {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    background: #4070f4;
+   /*overflow: hidden;*/ 
+    top: 0;
+}
+
+.avatar {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    /*margin-left: 37.5%;
+    margin-right: auto;*/
+    
+    /*background: #ccc;right: 0;*/
+}
+
+.chatmate-textpart {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    right: 0;
+}
+
+.delete-chat {
+    position: absolute;
+    width: 17%;
+    height: 25%;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.avatar-image img {
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.avatar h3 {
+    width: 200%;
+}
+
+
+
+
+
+
+/*                 right-side                */
+.right-side {
+    position: absolute;
+    /*max-width: 430px;*/
+    width: 25%;
+    height: 10%;
+    background: #4070f4;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    /* margin: 0 20px;
+    border-right: solid #2D3996;
+    border-left: solid #2D3996;*/
+}
+
+.you_info {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left:0;
+    /*background: #ccc;right: 0;*/
+}
+
+.avatar-image {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 0;
+}
+
+.right-side-textpart {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    right: 0;
+}
+
+.exit{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    border-radius: 5px;
+
+}
+
+/*.you_info h3 {
+    width: 200%;
+}*/
+/*                 left-side                */
+.left-side {
+    position: absolute;
+    /*max-width: 430px;*/
+    width: 25%;
+    height: 10%;
+    background: #4070f4;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    /* margin: 0 20px;
+    border-right: solid #2D3996;
+    border-left: solid #2D3996;*/
+}
+
+.input-field-search {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 5%;
+    /*background: red;*/
+}
+
+.return_to_contact_ist{
+    position:absolute;
+    border-radius: 5px;
+    margin: 2%;
+    right: 0;
+    bottom: 0;
+}
+/*                   chatslist                     */
+.chatslist {
+    position: absolute;
+    /*max-width: 430px; background: red;*/
+    width: 25%;
+    height: 90%;
+    overflow: scroll;
+    /* overflow: hidden;*/
+    bottom: 0;
+    left: 0;
+}
+
+.users {
+    position: absolute;
+    width: 100%;
+}
+.users-item {
+    background-color: #4070f4;
+    border-radius: 7px;
+    margin: 5px;
+}
+
+.user_text {
+    position: relative;
+    left: 5%;
+}
+
+.user_time {
+    /*margin-bottom: -125px;  margin-right: 75%;top: 2%;*/
+    font-size: 12px; position: relative;
+    border-radius: 5px;
+    left: 80%;
+    width: 20%;
+    background-color: lightgray;
+    border: medium red;
+    text-align: center;
+}
+
+#messagezone {
+    display: flex;
+    flex-direction: column-reverse;
+}

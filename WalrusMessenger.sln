@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WalrusMessenger", "WalrusMessenger.csproj", "{FBEA724C-F9C3-424E-8162-F0304B08658B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{53E43F2F-A7BE-4CDA-B6AD-869D855AC648}"
+	ProjectSection(SolutionItems) = preProject
+		Chats.html = Chats.html
+		ChatsScript.js = ChatsScript.js
+		ChatsStyleSheet.css = ChatsStyleSheet.css
+		HTMLPage1.html = HTMLPage1.html
+		Script1.js = Script1.js
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEA724C-F9C3-424E-8162-F0304B08658B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEA724C-F9C3-424E-8162-F0304B08658B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEA724C-F9C3-424E-8162-F0304B08658B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEA724C-F9C3-424E-8162-F0304B08658B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66DF1A2D-15C8-47D1-B1FB-4EB1A7BE0CD1}
+	EndGlobalSection
+EndGlobal

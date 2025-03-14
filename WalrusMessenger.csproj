@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\img\avatar-2.png" />
+    <Content Remove="wwwroot\img\avatar-3.png" />
+    <Content Remove="wwwroot\img\avatar-4.png" />
+    <Content Remove="wwwroot\img\avatar-5.png" />
+    <Content Remove="wwwroot\img\avatar.png" />
+    <Content Remove="wwwroot\img\logo.svg" />
+    <Content Remove="wwwroot\img\lone-logo.svg" />
+    <Content Remove="wwwroot\img\picture.svg" />
+    <Content Remove="wwwroot\img\search.svg" />
+    <Content Remove="wwwroot\img\settings.svg" />
+    <Content Remove="wwwroot\img\smile.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\avatar-2.png" />
+    <None Include="wwwroot\img\avatar-3.png" />
+    <None Include="wwwroot\img\avatar-4.png" />
+    <None Include="wwwroot\img\avatar-5.png" />
+    <None Include="wwwroot\img\avatar.png" />
+    <None Include="wwwroot\img\logo.svg" />
+    <None Include="wwwroot\img\lone-logo.svg" />
+    <None Include="wwwroot\img\picture.svg" />
+    <None Include="wwwroot\img\search.svg" />
+    <None Include="wwwroot\img\settings.svg" />
+    <None Include="wwwroot\img\smile.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.14" />
+  </ItemGroup>
+
+</Project>

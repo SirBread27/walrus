@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+    <!--CSS-->
+
+    <link rel="stylesheet" href="StyleSheet1.css">
+
+    <title>Login & Registration</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="forms">
+            <div class="form login">
+                <span class="title">Логин</span>
+
+                <form action="#">
+                    <div class="input-field">
+                        <input type="text" id="name" placeholder="Введите имя" required>
+                        <i class="uil uil-envelope-alt icon"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" id="password-login" class="password" placeholder="Введите пароль" required>
+                        <i class="uil uil-lock icon"></i>
+                        <i class="uil uil-eye-slash showHidePw"></i>
+                    </div>
+
+                    <div class="checkbox-text">
+                        <div class="checkbox-content">
+                            <input type="checkbox" id="logCheck">
+                            <label for="logCheck" class="text">Remember me</label>
+                        </div>
+
+                        <a href="#" class="text">Forgot password?</a>
+                    </div>
+
+                    <div class="login input-field button" id="1">
+                        <input type="button" onclick="GoAfterLogin()" value="Login Now">
+
+                    </div>
+                </form>
+                <div class="login-signup">
+                    <span class="text">
+                        Not a member?
+                        <a href="#" class="text signup-link">Signup now</a>
+                    </span>
+                </div>
+
+                <!--            Message                  -->
+
+                <div id="zatemnenie-login">
+                    <div id="okno-login">
+                        Ошибка сервера!<br>
+                        <a href="#" class="close">Закрыть окно</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!--Registration Form  -->
+            <div class="form signup">
+                <span class="title">Registration</span>
+
+                <form action="#">
+                    <div class="input-field">
+                        <input type="text" id="name-register" placeholder="Enter your name" required>
+                        <i class="uil uil-user"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="text" id="email" placeholder="Enter your email" required>
+                        <i class="uil uil-envelope-alt icon"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" id="password_register_first" class="password" placeholder="Create password" required>
+                        <i class="uil uil-lock icon"></i>
+                        <i class="uil uil-eye-slash showHidePw"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" id="password_register_second" class="password" placeholder="Enter password again" required>
+                        <i class="uil uil-lock icon"></i>
+                        <i class="uil uil-eye-slash showHidePw"></i>
+                    </div>
+
+                    <div class="checkbox-text">
+                        <div class="checkbox-content">
+                            <input type="checkbox" id="sigCheck">
+                            <label for="sigCheck" class="text">Remember me</label>
+                        </div>
+
+                        <a href="#" class="text">Forgot password?</a>
+                    </div>
+
+                    <div class="signUp input-field button" id="2">
+                        <input type="button" onclick="GoAfterRegistration()" value="Join us Now">
+
+                    </div>
+                </form>
+                <div class="login-signup">
+                    <span class="text">
+                        Have an account?
+                        <a href="#" class="text login-link">Log in now</a>
+                    </span>
+
+                    <!--           Messages             -->
+                    <div id="zatemnenie-passwords">
+                        <div id="okno-passwords">
+                            Пароли должны быть одинаковыми!<br>
+                            <a href="#" class="close">Закрыть окно</a>
+                        </div>
+                    </div>
+
+                    <div id="zatemnenie-fatchMistake-registration">
+                        <div id="okno-fatchMistake-registration">
+                            Ошибка сервера!<br>
+                            <a href="#" class="close">Закрыть окно</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="Script1.js"></script>
+
+</body>
+</html>
